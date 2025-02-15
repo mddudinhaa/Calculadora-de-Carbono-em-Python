@@ -1,4 +1,5 @@
-# Calculadora de Carbono em Python
+# Calculadora 
+
 Este repositório contém um código em Python que implementa uma Calculadora de Pegada de Carbono. 
 Este projeto é uma Calculadora de Pegada de Carbono desenvolvida em Python. O objetivo é estimar a quantidade de dióxido de carbono (CO₂) emitida com base em diferentes atividades diárias, como transporte e consumo de energia.
 
